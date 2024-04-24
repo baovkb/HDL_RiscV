@@ -1,0 +1,294 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Learning/HDL/Exercises/FSM
+vAdder
+Z0 !s110 1703469828
+!i10b 1
+!s100 LRidEA@cKXBC40GXc[YA`2
+INfmA?b@81d?1RCS2TIo1B3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Learning/HDL/Labs/Lab5
+w1699884022
+8D:/Learning/HDL/Labs/Lab5/Adder.v
+FD:/Learning/HDL/Labs/Lab5/Adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1703469828.000000
+!s107 D:/Learning/HDL/Labs/Lab5/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Learning/HDL/Labs/Lab5/Adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@adder
+vALU
+R0
+!i10b 1
+!s100 hH=5C0Gb6i@G=6FL_f3RL1
+I5;`cF=5Qk8YaL@<`=>0NL3
+R1
+R2
+w1699881614
+8D:/Learning/HDL/Labs/Lab5/ALU.v
+FD:/Learning/HDL/Labs/Lab5/ALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Learning/HDL/Labs/Lab5/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Learning/HDL/Labs/Lab5/ALU.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vController
+R0
+!i10b 1
+!s100 0z^@3ZI<lA_HCRINF?h370
+IX5`c2;kkQaHhcYYMoJJIf0
+R1
+R2
+w1700494231
+8D:/Learning/HDL/Labs/Lab5/Controller.v
+FD:/Learning/HDL/Labs/Lab5/Controller.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Learning/HDL/Labs/Lab5/Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Learning/HDL/Labs/Lab5/Controller.v|
+!i113 1
+R5
+R6
+n@controller
+vcontroller_tb
+R0
+!i10b 1
+!s100 ^N7_nz=Yd4aFD3QCnMND61
+ICXZ^NQE1N9HTEzjYA]JZh3
+R1
+R2
+w1700487985
+8D:/Learning/HDL/Labs/Lab5/controller_tb.v
+FD:/Learning/HDL/Labs/Lab5/controller_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Learning/HDL/Labs/Lab5/controller_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Learning/HDL/Labs/Lab5/controller_tb.v|
+!i113 1
+R5
+R6
+vDatapath
+!s110 1703469827
+!i10b 1
+!s100 8KVm74>]47JXf6[JMj3CG1
+INMHczkDNdH1A;?5cSZAnR0
+R1
+R2
+w1700486240
+8D:/Learning/HDL/Labs/Lab5/Datapath.v
+FD:/Learning/HDL/Labs/Lab5/Datapath.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1703469827.000000
+!s107 D:/Learning/HDL/Labs/Lab5/Datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Learning/HDL/Labs/Lab5/Datapath.v|
+!i113 1
+R5
+R6
+n@datapath
+vDMEM
+R0
+!i10b 1
+!s100 `=_=dz?[I@88PLDOej0`F0
+ISCbT0Tdo8;cg>>6N?gNJ40
+R1
+R2
+w1700569006
+8D:/Learning/HDL/Labs/Lab5/DMEM.v
+FD:/Learning/HDL/Labs/Lab5/DMEM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Learning/HDL/Labs/Lab5/DMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Learning/HDL/Labs/Lab5/DMEM.v|
+!i113 1
+R5
+R6
+n@d@m@e@m
+vIMEM
+R0
+!i10b 1
+!s100 VkN^1g`KTh56Sg>MclQ`U1
+ISLFZNJQ95Bi6SYT9]oc9B1
+R1
+R2
+w1700574233
+8D:/Learning/HDL/Labs/Lab5/IMEM.v
+FD:/Learning/HDL/Labs/Lab5/IMEM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/Learning/HDL/Labs/Lab5/IMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Learning/HDL/Labs/Lab5/IMEM.v|
+!i113 1
+R5
+R6
+n@i@m@e@m
+vImmGen
+R0
+!i10b 1
+!s100 FbmK1h[8=X4L[ADEI<bV40
+I6iWZDT@CSC^eUc=PKkk`g2
+R1
+R2
+w1700479843
+8D:/Learning/HDL/Labs/Lab5/ImmGen.v
+FD:/Learning/HDL/Labs/Lab5/ImmGen.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Learning/HDL/Labs/Lab5/ImmGen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Learning/HDL/Labs/Lab5/ImmGen.v|
+!i113 1
+R5
+R6
+n@imm@gen
+vmux2_32bits
+R0
+!i10b 1
+!s100 DeY0hRIz6bkK[2PH]H5L63
+IQGoR<8CKz1ZWO>7;SQgQZ0
+R1
+R2
+w1699882021
+8D:/Learning/HDL/Labs/Lab5/mux2_32bits.v
+FD:/Learning/HDL/Labs/Lab5/mux2_32bits.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Learning/HDL/Labs/Lab5/mux2_32bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Learning/HDL/Labs/Lab5/mux2_32bits.v|
+!i113 1
+R5
+R6
+vPC
+R0
+!i10b 1
+!s100 ?cJU=z6X=IizG5Bm9<=930
+IH;8J3Z;fnj;]9WcRlGXkF0
+R1
+R2
+w1703468782
+8D:/Learning/HDL/Labs/Lab5/PC.v
+FD:/Learning/HDL/Labs/Lab5/PC.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Learning/HDL/Labs/Lab5/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Learning/HDL/Labs/Lab5/PC.v|
+!i113 1
+R5
+R6
+n@p@c
+vReg
+R0
+!i10b 1
+!s100 ]OB54g`me_3Ajb?H^d]B>3
+I`KkJ9Wmm@>fE3Q?2iozgd3
+R1
+R2
+w1699881658
+8D:/Learning/HDL/Labs/Lab5/Reg.v
+FD:/Learning/HDL/Labs/Lab5/Reg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Learning/HDL/Labs/Lab5/Reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Learning/HDL/Labs/Lab5/Reg.v|
+!i113 1
+R5
+R6
+n@reg
+vRiscV
+R0
+!i10b 1
+!s100 ha6kEFPTL]d]UfL6WU@3Q3
+I]N3fN^KRamHH<CLBMaQQm1
+R1
+R2
+w1700558449
+8D:/Learning/HDL/Labs/Lab5/RiscV.v
+FD:/Learning/HDL/Labs/Lab5/RiscV.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Learning/HDL/Labs/Lab5/RiscV.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Learning/HDL/Labs/Lab5/RiscV.v|
+!i113 1
+R5
+R6
+n@risc@v
+vRiscV_tb
+!s110 1703473382
+!i10b 1
+!s100 UV20c[Ba^g4S11hRW;^d^2
+If_<JfG<SKRKea_7];VFKH3
+R1
+R2
+w1703473370
+8D:/Learning/HDL/Labs/Lab5/RiscV_tb.v
+FD:/Learning/HDL/Labs/Lab5/RiscV_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1703473382.000000
+!s107 D:/Learning/HDL/Labs/Lab5/RiscV_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Learning/HDL/Labs/Lab5/RiscV_tb.v|
+!i113 1
+R5
+R6
+n@risc@v_tb

@@ -1,0 +1,92 @@
+D:/Learning/HDL/Labs/Lab5/Reg.v {1 {vlog -work work -stats=none D:/Learning/HDL/Labs/Lab5/Reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Reg
+
+Top level modules:
+	Reg
+
+} {} {}} D:/Learning/HDL/Labs/Lab5/RiscV.v {1 {vlog -work work -stats=none D:/Learning/HDL/Labs/Lab5/RiscV.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RiscV
+
+Top level modules:
+	RiscV
+
+} {} {}} D:/Learning/HDL/Labs/Lab5/Adder.v {1 {vlog -work work -stats=none D:/Learning/HDL/Labs/Lab5/Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} D:/Learning/HDL/Labs/Lab5/controller_tb.v {1 {vlog -work work -stats=none D:/Learning/HDL/Labs/Lab5/controller_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module controller_tb
+
+Top level modules:
+	controller_tb
+
+} {} {}} D:/Learning/HDL/Labs/Lab5/PC.v {1 {vlog -work work -stats=none D:/Learning/HDL/Labs/Lab5/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} D:/Learning/HDL/Labs/Lab5/RiscV_tb.v {1 {vlog -work work -stats=none D:/Learning/HDL/Labs/Lab5/RiscV_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RiscV_tb
+
+Top level modules:
+	RiscV_tb
+
+} {} {}} D:/Learning/HDL/Labs/Lab5/Controller.v {1 {vlog -work work -stats=none D:/Learning/HDL/Labs/Lab5/Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} D:/Learning/HDL/Labs/Lab5/ImmGen.v {1 {vlog -work work -stats=none D:/Learning/HDL/Labs/Lab5/ImmGen.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ImmGen
+
+Top level modules:
+	ImmGen
+
+} {} {}} D:/Learning/HDL/Labs/Lab5/Datapath.v {1 {vlog -work work -stats=none D:/Learning/HDL/Labs/Lab5/Datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} D:/Learning/HDL/Labs/Lab5/IMEM.v {1 {vlog -work work -stats=none D:/Learning/HDL/Labs/Lab5/IMEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module IMEM
+
+Top level modules:
+	IMEM
+
+} {} {}} D:/Learning/HDL/Labs/Lab5/mux2_32bits.v {1 {vlog -work work -stats=none D:/Learning/HDL/Labs/Lab5/mux2_32bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux2_32bits
+
+Top level modules:
+	mux2_32bits
+
+} {} {}} D:/Learning/HDL/Labs/Lab5/ALU.v {1 {vlog -work work -stats=none D:/Learning/HDL/Labs/Lab5/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/Learning/HDL/Labs/Lab5/DMEM.v {1 {vlog -work work -stats=none D:/Learning/HDL/Labs/Lab5/DMEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DMEM
+
+Top level modules:
+	DMEM
+
+} {} {}}
